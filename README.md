@@ -18,7 +18,7 @@ Projeto criado para mostrar meus conhecimentos em programação.
 <br>
 
 <p align="center">
-  <img alt="Link para Bio de redes sociai" src=".github/preview.png" width="100%">
+  <img alt="Link para Bio de redes sociai" src="/github/preview.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
